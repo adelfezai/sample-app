@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>Exemple d'application</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+    <h1> We are group X: Nom1Prenom1, Nom2Prenom2, Nom3Prenom3, Nom4Prenom4, Nom5Prenom5, Nom6Prenom6. You are calling from {{request.remote_addr}}</h1>
+</body>
+</html>
+  GNU nano 7.2                                                                                                     index.html *                                                                                                             
+<html>
+<head>
+    <title>Exemple d'application</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+    <h1> We are group X: Nom1Prenom1, Nom2Prenom2, Nom3Prenom3, Nom4Prenom4, Nom5Prenom5, Nom6Prenom6. You are calling from {{request.re
